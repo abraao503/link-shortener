@@ -54,7 +54,7 @@ Subindo o docker com o postgres.
 docker run --name database -e POSTGRES_PASSWORD=password -p 5432:5432 -d postgres
 
 ```
-Crie um arquivo .env igual ao .env.example
+**Crie um arquivo .env igual ao .env.example**
 
 Rodando as migrations e iniciando o backend.
 ```bash
