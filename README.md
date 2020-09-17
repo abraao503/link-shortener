@@ -51,9 +51,10 @@ npm install
 
 Subindo o docker com o postgres.
 ```bash
-docker run --name database -e POSTGRES_PASSWORD=password -p 5431:5432 -d postgres
+docker run --name database -e POSTGRES_PASSWORD=password -p 5432:5432 -d postgres
 
 ```
+Crie um arquivo .env igual ao .env.example
 
 Rodando as migrations e iniciando o backend.
 ```bash
