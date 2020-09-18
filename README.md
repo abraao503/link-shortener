@@ -15,8 +15,9 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
 - [PostgreSQL](https://www.postgresql.org/)
+- [React](https://reactjs.org)
+- [Styled Components](https://styled-components.com/)
 
 ## :computer: Sobre o projeto
 
